@@ -341,7 +341,7 @@ function App() {
       <div className="global">
         <h1>GLOBAL STATS</h1>
         <div className="layout">
-          <h1>PC Layout</h1>
+          <h1>On PC Layout</h1>
           <div className="count" style={{ marginTop: "15vh" }}>
             <span className="countValue">{globalPCCount}</span>
             <span className="countCaption">COUNT</span>
@@ -379,7 +379,7 @@ function App() {
           </p>
         </div>
         <div className="layout">
-          <h1>Mobile Layout</h1>
+          <h1>On Mobile Layout</h1>
           <div className="count" style={{ marginTop: "15vh" }}>
             <span className="countValue">{globalMobileCount}</span>
             <span className="countCaption">COUNT</span>
