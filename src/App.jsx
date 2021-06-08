@@ -369,7 +369,7 @@ function App() {
             .
             <br />
             The probablity of random clicks of all the buttons being within the
-            range of &#177;2 is{" "}
+            range of &#177;2 in an entry is{" "}
             <span style={{ color: "#006362" }}>
               {entriesLength.PC
                 ? (uniform.PC / entriesLength.PC).toFixed(3)
@@ -417,7 +417,7 @@ function App() {
             .
             <br />
             The probablity of random clicks of all the buttons being within the
-            range of &#177;2 is{" "}
+            range of &#177;2 in an entry is{" "}
             <span style={{ color: "#006362" }}>
               {entriesLength.mobile
                 ? (uniform.mobile / entriesLength.mobile).toFixed(3)
